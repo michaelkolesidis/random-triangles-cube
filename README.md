@@ -34,8 +34,8 @@
 
 ## Screenshots
 
-<img src="./screenshots/screenshot-01">
-<img src="./screenshots/screenshot-02">
+<img src="./screenshots/screenshot-01.png">
+<img src="./screenshots/screenshot-02.png">
 
 
 
