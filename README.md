@@ -1,1 +1,0 @@
-# random-triangles-cube
