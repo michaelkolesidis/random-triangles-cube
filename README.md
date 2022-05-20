@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="">
-  <h1>Random Triangles Cube</h1>
+  <img src="./screenshots/random-triangles-cube-400px-opt.gif" />
   
   <h3>Random triangles form a cube. Made with three.js.</h3>
 
-  <a href=""><h3>Try me!</h3></a>
+  <a href="https://random-triangles-cube.netlify.app/"><h3>Try me!</h3></a>
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/59ac6b41-5e0e-4b49-8a14-572d67bd7502/deploy-status)](https://app.netlify.com/sites/random-triangles-cube/deploys)
 
@@ -25,23 +24,18 @@
 
 
 
-## Description
+## Controls
 
-<p></p>
-
-<p><a href="">Processing</a></p>
-
-
-
-## Demo
-
-<img src="">
+- Scroll to zoom
+- Hold left mouse button and move mouse to rotate
+- Hold right mouse button and move mouse to pan
 
 
 
 ## Screenshots
 
-<img src="">
+<img src="./screenshots/screenshot-01">
+<img src="./screenshots/screenshot-02">
 
 
 
