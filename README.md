@@ -29,7 +29,7 @@
 - Scroll to zoom
 - Hold left mouse button and move mouse to rotate
 - Hold right mouse button and move mouse to pan
-
+- Double-click to toggle fullscreen mode
 
 
 ## Screenshots
