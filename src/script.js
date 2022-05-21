@@ -7,6 +7,8 @@ const canvas = document.querySelector("canvas.webgl");
 
 // Scene
 const scene = new THREE.Scene();
+// scene.background = new THREE.Color( 0xffffff );
+
 
 // Objects
 const geometry = new THREE.BufferGeometry();
